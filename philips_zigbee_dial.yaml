@@ -9,7 +9,6 @@ blueprint:
       name: Philips Hue Tap Switch
       selector:
         device:
-          integration: hue
     first_light:
       name: First Light
       description: The light(s) to control with first button
