@@ -9,7 +9,7 @@ blueprint:
       name: Philips Hue Tap Switch
       selector:
         device:
-          integration: zha
+          integration: hue
           manufacturer: Signify Netherlands B.V.
           model: RDM002
     first_light:
